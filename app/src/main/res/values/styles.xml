@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="GreenButtonStyle">
+        <item name="android:backgroundTint">@color/brand_green</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
